@@ -1,0 +1,10 @@
+---
+title: "notes.qmd"
+format: html
+editor: visual
+---
+
+```{r}
+summary(mtcars)
+```
+
